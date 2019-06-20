@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">KetQuaXoSo</string>
+    <string name="ketqua">Xem Kết Quả</string>
+    <string name="thongke">Thống Kê</string>
+    <string name="choithu">Chơi Thử</string>
+    <string name="title">Xổ số PTIT</string>
+    <string name="title_choithu">Chơi Thử Dự Đoán Kết Quả</string>
+    <string name="hint_giaidacbiet">Giải đặc biệt</string>
+    <string name="hint_loto">Giải lô</string>
+    <string name="tile_giaidacbiet">x1</string>
+    <string name="tile_loto">x23</string>
+    <string name="SoDacBiet">Nhập số đặc biệt</string>
+    <string name="SoLoTo">Nhập số lô tô</string>
+    <string name="Confirm">Xác nhận</string>
+    <string name="Back">Xóa dự đoán</string>
+    <string name="tilte_setting">Cài đặt thông báo</string>
+    <string name="onoffalert">Bật/tắt thông báo</string>
+    <string name="onalert">On</string>
+    <string name="offalert">Off</string>
+    <string name="title_ketqua">Kết quả xổ số</string>
+    <string name="ngayDuDoan">Dự đoán kết quả ngày</string>
+    <string name="chuaDuDoan">Chưa dự đoán</string>
+
+    <string name="app_name1">KQXS</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_thongke">thongke</string>
+    <string name="title_activity_thong_ke">thongKe</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_dangnhap">Đăng nhập</string>
+    <string name="tv_username">Nhập tên tài khoản</string>
+    <string name="tv_password">Nhập mật khẩu</string>
+    <string name="title_hello">Hello</string>
+    <string name="congThucTongTien">Tổng cược = Đặc biệt + lô*23 =</string>
+    <string name="dangKy">Đăng ký</string>
+    <string name="btnThongKe">Thống Kê</string>
+    <string name="title_thongKeKetQua">Thống kê số tiền trong 1 tuần</string>
+    <string name="tv_ngayBatDau">Ngày Bắt Đầu</string>
+    <string name="tv_ngayKetThuc">Ngày Kết Thúc</string>
+    <string name="tv_tienTieu">Tiền bỏ ra</string>
+    <string name="tv_tienDuoc">Tiền thu được</string>
+</resources>
